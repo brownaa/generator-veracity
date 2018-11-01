@@ -22,7 +22,7 @@ An Internet connection
 
 ### Step 1: Register your application
 
-Go the Veracity for Developers site and log in. In your developer progile you can register new applications. When you register the applciation redirectUri,please add /complete/azuread-b2c-oauth2/ as the suffix and also register a http endpoint to easily debug.
+Go the Veracity for Developers site and log in. In your developer profile you can register new applications. When you register the applciation redirectUri,please add /complete/azuread-b2c-oauth2/ as the suffix and also register a http endpoint to easily debug.
 
 
 ### Step 2: Configure the application
